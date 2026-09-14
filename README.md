@@ -1,4 +1,4 @@
-# 2D Dungeon Crawler — Anas' Abyss of Shadows
+# 2D Dungeon Crawler - Anas' Abyss of Shadows
 
 A 2D dungeon crawler survival game built in Python using Pygame, developed solo as my A-Level Computer Science NEA (Non-Exam Assessment) project.
 
