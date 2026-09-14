@@ -7,7 +7,7 @@ A 2D dungeon crawler survival game built in Python using Pygame, developed solo 
 Designed and built end-to-end, applying object-oriented programming principles throughout. Covers the full development lifecycle, from initial requirements gathering and design through to implementation and testing
 
 ## Features
-Wave-based survival gameplay — enemies increase in number each wave
+Wave-based survival gameplay, enemies increase in number each wave
 Multiple enemy types with different behaviours (melee chasers, ranged shooters)
 Player movement, shooting, and animation states (idle/running, directional flipping)
 Health packs and temporary power-ups (rapid fire, enemy freeze)
